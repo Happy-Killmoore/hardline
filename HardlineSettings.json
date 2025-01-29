@@ -33,6 +33,26 @@
         "ZmbM_NBC_Yellow": 20
     },
     "ItemRarity": {
+        "CJ_Key1": 8, //BLACK KEY AzZablah
+        "CJ_Key2": 7, //GREY Oil Fields Key
+        "CJ_Key3": 3, //Brown Bastam
+        "CJ_Key4": 5, //Green Rasman Key
+        "CJ_Key5": 5, //Olive SAB Key
+        "CJ_Key6": 4, //Yellow Rustaq Key
+        "CJ_Key7": 4, //Red Ferruzbad Key
+        "CJ_Key8": 5, //Blue RadarBase Key
+        "CJ_Key9": 7, //Old Key South of NUR
+        "CJ_Key10": 7, //Radio Tower Key
+        "CJ_Key11": 5, //Farakkah Key
+        "CJ_Key12": 5, //Rasman FOB Key
+        "CJ_Key101": 7, //Cash Register Key
+        "CJ_Key102": 6, //Al Nadaya Industry Key
+        "CJ_Key103": 8, //Rusty Dock Key
+        "CJ_Key200": 8, //Black KC SAFE Hachaman
+        "CJ_Key201": 6, //Blue KC SAFE Chakchak
+        "CJ_Key202": 6, //Green KC Safe Al Hamiqquah
+        "CJ_Key203": 6, //Yellow KC Safe NUR
+        "CJ_Key204": 7, //Red KC SAFE Al Babair
         "EFT_med_Salewa": 6,
         "EFT_med_GoldStar": 6,
         "EFT_med_Bandage": 1,
